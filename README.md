@@ -90,7 +90,7 @@ By separating logic into distinct layers and validating inputs early, I ensure t
 
 ### ✨ Author  
 
-**Lamberto “Junior” [Your Last Name]**  
+**Lamberto Nunez**  
 🎓 *Computer Science Student – Concentration in Data Analytics*  
 ⚙️ *Focused on Agentic AI Development & MLOps Engineering*  
 
